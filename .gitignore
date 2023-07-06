@@ -1,0 +1,72 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+build/
+*.collabignore
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated/ VSCode / Rider #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+*.vscode
+*.idea
+JetBrains*
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Builds/*
+Bundles/*
+
+Library/FailedAssetImports.txt
+/.vs/*
+/Logs
+
+*.userprefs
+Assembly-CSharp-Editor-firstpass-vs.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-Editor-firstpass.pidb
+Assembly-CSharp-Editor-vs.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-Editor.pidb
+Assembly-CSharp-firstpass-vs.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp-firstpass.pidb
+Assembly-CSharp-vs.csproj
+Assembly-CSharp.csproj
+Assembly-CSharp.pidb
+Assembly-UnityScript-Editor-firstpass-vs.unityproj
+Assembly-UnityScript-Editor-firstpass.pidb
+Assembly-UnityScript-Editor-firstpass.unityproj
+Assembly-UnityScript-Editor-vs.unityproj
+Assembly-UnityScript-Editor.pidb
+Assembly-UnityScript-Editor.unityproj
+Assembly-UnityScript-firstpass-vs.unityproj
+Assembly-UnityScript-firstpass.pidb
+Assembly-UnityScript-firstpass.unityproj
+*.suo
+/*.csproj
+/obj/Debug/*.cache
+/*.csproj
+/obj
+/remote_config_data
+/UserSettings/Layouts
