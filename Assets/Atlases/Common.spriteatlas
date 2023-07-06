@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Common
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 103d4bf7fbc6a9d40bc9a0dc656fe637, type: 3}
+    - {fileID: 2800000, guid: fae2609b8c7b4dd4395154de03d93d87, type: 3}
+    - {fileID: 2800000, guid: 6478174e95f0d67498d564411c56bfe6, type: 3}
+    - {fileID: 2800000, guid: 85e7c271fc7a72c449512315ede82326, type: 3}
+    - {fileID: 2800000, guid: c55975ceb72b0584c933fd7c7731631b, type: 3}
+    - {fileID: 2800000, guid: e8268aaffc46ec9448f68144d47007a2, type: 3}
+    - {fileID: 2800000, guid: 62c2092afeadec647819e5fce56ca109, type: 3}
+    - {fileID: 2800000, guid: 82f7d18d73743c7488556ca40b439e2c, type: 3}
+    - {fileID: 2800000, guid: 61cf08a0a1579ce4b8e4b4b16d38c615, type: 3}
+    - {fileID: 2800000, guid: 75701cbbfd57f7842af0ea9262933c2f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 61cf08a0a1579ce4b8e4b4b16d38c615, type: 3}
+  - {fileID: 21300000, guid: 85e7c271fc7a72c449512315ede82326, type: 3}
+  - {fileID: 21300000, guid: 103d4bf7fbc6a9d40bc9a0dc656fe637, type: 3}
+  - {fileID: 21300000, guid: 62c2092afeadec647819e5fce56ca109, type: 3}
+  - {fileID: 21300000, guid: fae2609b8c7b4dd4395154de03d93d87, type: 3}
+  - {fileID: 21300000, guid: 75701cbbfd57f7842af0ea9262933c2f, type: 3}
+  - {fileID: 21300000, guid: 82f7d18d73743c7488556ca40b439e2c, type: 3}
+  - {fileID: 21300000, guid: 6478174e95f0d67498d564411c56bfe6, type: 3}
+  - {fileID: 21300000, guid: c55975ceb72b0584c933fd7c7731631b, type: 3}
+  - {fileID: 21300000, guid: e8268aaffc46ec9448f68144d47007a2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - numberBG
+  - Duamond
+  - Bronze
+  - leaderboardButton
+  - buttonCloseClickOut
+  - Silver
+  - Mask
+  - defaultAvatar
+  - Gold
+  - LeaderboardBG
+  m_RenderDataMap: {}
+  m_Tag: Common
+  m_IsVariant: 0
