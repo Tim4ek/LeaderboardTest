@@ -1,4 +1,9 @@
 # LeaderboardTest
 
 How works
-Your task is to create a simple leaderboard popup that reads a local JSON file in the Unity project from the Resources folder, parses the data, and displays it, along with player avatars that are downloaded as needed.
+
+Start from App.cs script.
+AppContex.cs is the main container for references that are injected into different classes.
+On startup, the lobby asset is asynchronously initialized and the button animation is played. Animation made with the help of DOTween.
+Lobby view and popup has different canvases, as an optimization.
+Also, for optimization, an atlas with common textures for buttons and popups was created.
